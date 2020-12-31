@@ -4,3 +4,7 @@
 # GitHub Emojis
 
 A complete list of GitHub emojis, directly from [GitHub's API](https://docs.github.com/en/free-pro-team@latest/rest/reference/emojis).
+
+# Demo
+
+[https://justinlettau.github.io/gh-emojis](https://justinlettau.github.io/gh-emojis)
